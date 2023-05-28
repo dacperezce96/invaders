@@ -1,0 +1,80 @@
+{
+    "A": {
+        "image": "assets/img/invaders_enemy_01.png",
+        "points":30,
+        "animations": {
+            "number_frames": 5,
+            "list": [
+                {
+                    "name": "MOVE",
+                    "start": 0,
+                    "end": 4,
+                    "framerate": 10
+                },
+                {
+                    "name": "IDLE",
+                    "start": 0,
+                    "end": 0,
+                    "framerate": 1
+                }
+            ]
+        }
+    },
+    "B": {
+        "image": "assets/img/invaders_enemy_02.png",
+        "points":40,
+        "animations": {
+            "number_frames": 5,
+            "list": [
+                {
+                    "name": "MOVE",
+                    "start": 0,
+                    "end": 4,
+                    "framerate": 10
+                },
+                {
+                    "name": "IDLE",
+                    "start": 0,
+                    "end": 0,
+                    "framerate": 1
+                }
+            ]
+        }
+    },
+    "C": {
+        "image": "assets/img/invaders_enemy_03.png",
+        "points":50,
+        "animations": {
+            "number_frames": 5,
+            "list": [
+                {
+                    "name": "MOVE",
+                    "start": 0,
+                    "end": 4,
+                    "framerate": 10
+                },
+                {
+                    "name": "IDLE",
+                    "start": 0,
+                    "end": 0,
+                    "framerate": 1
+                }
+            ]
+        }
+    },
+    "D": {
+        "image": "assets/img/invaders_enemy_04.png",
+        "points":60,
+        "animations": {
+            "number_frames": 1,
+            "list": [
+                {
+                    "name": "IDLE",
+                    "start": 0,
+                    "end": 0,
+                    "framerate": 1
+                }
+            ]
+        }
+    }
+}
